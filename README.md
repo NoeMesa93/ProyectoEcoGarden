@@ -9,9 +9,13 @@ Esta aplicación de tienda de plantas fue creada principalmente con JavaScript y
 Funcionalidades
 
     Agregar o eliminar del carrito: Los usuarios pueden seleccionar las plantas que desean comprar y añadirlas al carrito o eliminarlas. 
+    
     Control de stock: Si no hay stock del producto no se podrá añadir al carrito.
+    
     Visualización del carrito: Se puede mostrar u ocultar el carrito para revisar los artículos añadidos.
+    
     Vaciar carrito: Permite eliminar todos los productos seleccionados de una sola vez.
+    
     Realizar compra: Simula la acción de finalizar la compra.
 
 🛠️ Tecnologías

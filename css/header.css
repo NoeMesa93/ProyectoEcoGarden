@@ -1,0 +1,61 @@
+        .header {
+            height: 60px;
+            background-color: rgb(255, 255, 255);
+            align-content: center;
+        }
+
+        .wrapper {
+
+            max-width: 80%;
+            display: flex;
+            justify-content: space-between;
+            list-style: none;
+            gap: 20px;
+            font-size: 20px;
+
+        }
+
+        .wrapper h3 {
+            padding-left: 40px;
+            font-weight: bold;
+            color: rgb(1, 61, 41);
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+        }
+
+        .buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+            align-items: center;
+
+        }
+
+        .option-menu {
+            color: rgb(1, 61, 41);
+            ;
+        }
+
+        .option-menu:hover {
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+            cursor: pointer;
+        }
+
+        .information {
+            display: inline-flex;
+            gap: 20px;
+            list-style-type: none;
+            cursor: pointer;
+        }
+
+        /* ----------- MEDIAQUERIES ----------- */
+
+        @media(width < 64.375rem) {
+
+            .wrapper h3 {
+                display: none;
+            }
+        }

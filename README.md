@@ -1,6 +1,8 @@
 🌿 Tienda de Plantas - Web App
 
 Bienvenido a la Tienda de Plantas 🌱, una página web sencilla y responsive para la venta de plantas. Esta aplicación permite a los usuarios explorar una selección de productos, añadirlos a un carrito de compras, visualizar el carrito, vaciarlo o realizar la compra.
+
+
 📋 Descripción
 
 Esta aplicación de tienda de plantas fue creada principalmente con JavaScript y CSS, diseñada para adaptarse a varios dispositivos con un diseño responsive que mejora la experiencia del usuario en móviles, tabletas y computadoras de escritorio.
